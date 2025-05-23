@@ -1,5 +1,5 @@
-# Proposed-CyberCrime-in-Bangladesh
-# Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+
+# Assignment Title: Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 
 ---
 
@@ -74,21 +74,18 @@ Bangladesh has made progress in creating cyber laws, but there are still several
 - This leads to poor enforcement and confusion.
 
 
+# 4. Cyber Laws in Top 5 Countries
 
-## Comparison table: Cyber crime in Bangladesh vs Other Countries
-| Type of Cybercrime         | Bangladesh                                                        | USA                                                              | UK                                                                 | EU (General)                                                       | India                                                               |
-|---------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------|
-| Online Fraud              | Very common, especially mobile banking fraud                       | Common; monitored by FBI and IC3                                 | Common; strong reporting in financial sector                       | High fraud detection focus; GDPR ensures data protection           | Rising; especially in digital payments and UPI                      |
-| Hacking / Unauthorized Access | Frequent attacks on small businesses                              | Major attacks on corporations, banks, health systems             | Government and healthcare systems targeted                         | Attacks on infrastructure; fast response systems                   | Increasing attacks on govt platforms and services                   |
-| Fake News / Disinformation | Political rumors and hate speech spread; low regulation            | High concern during elections; tightly monitored                 | Social media platforms held accountable                            | Misinformation must be removed quickly under law                   | Frequent during elections; monitored and restricted                 |
-| Cyberbullying / Harassment| Common on social media; limited support for victims               | Laws exist to protect minors and adults                          | Strong protections and cyberbullying helplines                     | Public campaigns support safe internet use                         | Widespread; new legal protections for women and children            |
-| Ransomware Attacks        | Underreported; targeting businesses is increasing                  | Top threat; heavy financial damage                               | Targets healthcare and education sectors                           | High concern; agencies monitor threats and give alerts             | Growing in private sector and services                              |
-| Phishing / Email Scams    | Very common; individuals and small firms targeted                  | Targeted scams cause major losses                                | Tracked closely by national cyber agencies                         | Phishing monitored under ENISA network                             | Common; includes fake job, loan, and money schemes                  |
-| Data Breach / Privacy Leak| No strong data protection law; poor reporting                      | Breaches must be reported by law                                 | Strict reporting under UK GDPR                                     | GDPR enforces strong penalties for leaks                           | DPDP Bill proposed; current laws are weak                           |
-| Terrorism / Extremism Online | Arrests under DSA, but freedom of expression concerns             | FBI tracks radical content online                                | Platforms monitored for extremist material                         | Extremist content illegal under digital rules                      | Cyber cells track terrorism and extremist propaganda                |
+| **Country**     | **Main Cyber Laws**                     | **What They Focus On**                                     | **Who Handles It**              | **What They Do Well**                                                |
+| --------------- | --------------------------------------- | ---------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------------- |
+| 🇺🇸 **USA**    | CIRCIA 2022, CFAA                       | Stops hacking, protects companies, fights online terrorism | FBI, CISA (cyber experts)       | Strong teamwork between agencies and fast action on big cyberattacks |
+| 🇬🇧 **UK**     | Computer Misuse Act, Online Safety Bill | Stops hacking, online abuse, protects children             | NCSC, ICO (data protection)     | Good privacy rules, protects people online, works with social media  |
+| 🇪🇺 **EU**     | GDPR, NIS2                              | Protects personal data, stops cyberattacks on services     | ENISA (cyber agency for Europe) | Very strong privacy laws, makes companies report data leaks quickly  |
+| 🇫🇷 **France** | LOPMI Law, GDPR                         | Tracks online criminals, protects digital identity         | CNIL, cyber police              | Keeps a check on platforms, works well with other EU countries       |
+| 🇮🇳 **India**  | IT Act, DPDP Bill                       | Stops online fraud, fake news, and online abuse            | CERT-In, Police Cyber Units     | New laws to protect users, teaches people how to stay safe online    |
 
-## 4. What We Learned from Cyber Laws in Other Countries
-# What Bangladesh Can Learn from Global Cyber Laws
+
+# 4. What Bangladesh Can Learn from Global Cyber Laws
 
 By examining cyber laws from countries like the **USA, UK, EU, and India**, Bangladesh can adopt the following best practices:
 
